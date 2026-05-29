@@ -123,8 +123,8 @@ A reimagined version of Minesweeper. Built with purely with HTML CSS and JavaSce
 ### 🎮 Project Two
 > Party Box Games. Built with React, Node.js, and ☕. Powered by caffeine and curiosity.
 
-[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/SalimYussuf/project-two)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://your-project-two.netlify.app)
+[![Repo](https://img.shields.io/badge/View_Repo-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/SalimYussuf/Bluewongo)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://shenanigans-and-tomfoolery.onrender.com)
 
 ---
 
