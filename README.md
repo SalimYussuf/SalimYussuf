@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 ```yaml
-Name:              YOUR_NAME
+Name:              Salim Yussuf
 Role:              Full Stack Developer / Designer / Student
 Location:          🌍 Somewhere on Earth
 Currently Learning: AI • Cloud • Cool Stuff
