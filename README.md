@@ -1,6 +1,7 @@
 <div align="center">
   
 # Hey there, I'm Salim
+<img width="498" height="280" alt="The Boys A Train GIF - The Boys A Train Faster - Discover   Share GIFs" src="https://github.com/user-attachments/assets/e5f3adc7-78e1-45cc-964b-ca2e32b7b42a" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Designer+%F0%9F%8E%A8;Lifelong+Learner+%F0%9F%93%9A;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
